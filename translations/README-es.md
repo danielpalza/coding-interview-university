@@ -257,8 +257,8 @@ git push --force
 
 ## No sienta que no es lo suficientemente listo
 - Los ingenieros de software exitosos son inteligentes, pero muchos tienen la inseguridad de no ser lo suficientemente listos.
-- [The myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ)
-- [It's Dangerous to Go Alone: Battling the Invisible Monsters in Tech](https://www.youtube.com/watch?v=1i8ylq4j_EY)
+- [X] [The myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ)
+- [ ] [It's Dangerous to Go Alone: Battling the Invisible Monsters in Tech](https://www.youtube.com/watch?v=1i8ylq4j_EY)
 
 ## Acerca de los recursos de vídeo
 Algunos videos solo están disponibles inscribiéndose a una clase de Coursera o EdX. Estos son llamados MOOCs. En ocasiones las clases no están en sesión, por lo que tendrá que esperar un par de meses, así que no tiene acceso.
